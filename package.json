@@ -1,0 +1,14 @@
+{
+  "name": "js-testing",
+  "version": "1.0.0",
+  "description": "This is for learning testing in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jerry",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
